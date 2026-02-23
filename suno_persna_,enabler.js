@@ -9,7 +9,7 @@
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
-
+ñ
 (function() {
     'use strict';
 
